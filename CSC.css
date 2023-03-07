@@ -1,0 +1,39 @@
+html {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    height: 100%;
+    background-color: #a0abb6 ;
+}
+
+h1{
+    padding: 20px 0;
+    color: black;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 3px 3px 1px gray;
+}
+h2{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 1px 1px 1px gray;
+}
+
+h3{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 1px 1px 1px gray;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+.btn {
+    border: none; /* Remove borders */
+    color: black; /* Add a text color */
+    padding: 14px 28px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+}
+.close {background-color: #FAFAFA;}
+.close:hover {background-color: #A1A1A1;}
